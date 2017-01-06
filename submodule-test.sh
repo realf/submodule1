@@ -1,3 +1,3 @@
 #!/bin/sh
 
-$TEST="hello from submodule"
+$TEST="hello from submodule!"
